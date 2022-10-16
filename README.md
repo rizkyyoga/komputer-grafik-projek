@@ -1,3 +1,3 @@
 komputer-grafik-projek
 ======================
-bridal-invitation.link
+<a href="https://bridal-invitation.link" rel="follow">undangan pernikahan online</a>
